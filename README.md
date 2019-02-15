@@ -1,0 +1,4 @@
+# AI-TICTACTOE-HUMAN-COMPUTER
+
+A ARTIFICIAL INTELLIGENCE BASED HUMAN VS COMPUTER TICTACTOE GAME.
+Computer makes moves based on the MIN-MAX Algorithm according to the User.
